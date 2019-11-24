@@ -49,7 +49,7 @@ TX10005, ACC334455, ACC778899, 21/10/2018 09:30:00, 7.25,PAYMENT
   Than count is calculated by summing firstcount and second count and substracting reversal count
   
     
- Given Problem Statement :
+ # Given Problem Statement :
 The goal of the challenge is to implement a system that analyses
 financial transaction records.
 A transaction record describes transferring money from one account to
